@@ -7,6 +7,7 @@ Main function: this code calculates the real roots of a polynomial of the form: 
 
 The program runs as follows on the command line:
 findroots.exe a b c d.
+the findroots.exe is located in the Build>>Release folder
 
 First, the program validates the entries, which are four entries and numeric.
 
